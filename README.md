@@ -1,1 +1,1 @@
-https://github.com/bychaeun/MonstarK.git
+https://bychaeun.github.io/MonstarK/
